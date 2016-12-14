@@ -1,0 +1,2 @@
+# Informacion-Legal-Abierta---Clemens-Wass
+Presentación de Clemens Wass en el panel “Datos judiciales abiertos” en la Conferencia Justicia Abierta, que tuvo lugar el viernes 2 de diciembre de 2016 en la Facultad de Derecho de la UBA. Clemens Wass es MBL, MBA, co-fundador y CEO de openlaws. Licenciado en derecho, derecho de los negocios Salzburg University y Salzburg Management Business School) y administración de empresas. Cuenta con diez años de experiencia práctica en el área de Derecho e Informática Jurídica. 
